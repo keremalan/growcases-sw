@@ -1,0 +1,71 @@
+.login__main {
+    background-color: #0F0F0F;
+    height: 91.9vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__main__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lmc__form {
+    background-color: #282828;
+    border-radius: 6px;
+    padding: 20px 20px;
+}
+
+.lmcf__h2, .lmcf__h3 {
+    text-align: center;
+}
+
+.lmcf__h2 {
+    color: white;
+    padding: 20px 0;
+}
+
+.lmcf__h3 {
+    color: white;
+    padding: 20px 0;
+    margin: 0vh 0 10px 0;
+}
+
+input {
+    height: 40px;
+    width: 350px;
+    padding: 0 1vw;
+    color: #7B7B7B;
+    background: #282828;
+    border: 1px solid #7B7B7B;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin: 10px 0 40px 0;
+}
+
+.lmcf__h5 {
+    color: #7b7b7b;
+}
+
+
+.lmcfob__create {
+    color: #7B7B7B;
+}
+
+.lmcf__options__button {
+    margin: 20px 0;
+}
+
+.lmcfob__next {
+    color: #303030;
+    padding: 10px 40px;
+    background-color: #7B7B7B;
+    border-radius: 6px;
+}
+
+.lmcf__options {
+    display: flex;
+    justify-content: space-between;
+}

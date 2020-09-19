@@ -1,0 +1,15 @@
+.register__input {
+    display: block;
+    margin: 24px 0;
+}
+
+.lmcf__h3--register {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.lmcf__h5--register {
+    text-align: center;
+    font-weight: 400;
+    margin: 0;
+}
